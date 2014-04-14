@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: tomcat:catalina-root:5.5.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/catalina-root/5.5.12/catalina-root-5.5.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/catalina-root/5.5.12/catalina-root-5.5.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/catalina-root/5.5.12/catalina-root-5.5.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
